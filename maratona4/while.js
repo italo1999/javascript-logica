@@ -1,0 +1,5 @@
+//exercicio while
+
+
+
+
